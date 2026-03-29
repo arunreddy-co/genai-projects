@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+pg8000
+python-dotenv
+google-cloud-aiplatform
+vertexai

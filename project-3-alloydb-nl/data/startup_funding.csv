@@ -1,0 +1,101 @@
+company_name,city,industry,funding_amount_cr,funding_round,lead_investor,founded_year,num_employees,status
+Razorpay,Bangalore,Fintech,375,Series F,TCV,2014,3000,Active
+Zerodha,Bangalore,Fintech,0,Bootstrapped,Self-funded,2010,1200,Active
+CRED,Bangalore,Fintech,215,Series E,Tiger Global,2018,1100,Active
+Meesho,Bangalore,E-commerce,275,Series F,Fidelity,2015,2200,Active
+PhonePe,Bangalore,Fintech,350,Pre-IPO,General Atlantic,2015,6000,Active
+Swiggy,Bangalore,Food Delivery,520,IPO,SoftBank,2014,5000,Active
+Ola,Bangalore,Mobility,300,Series J,Temasek,2010,4000,Active
+Flipkart,Bangalore,E-commerce,700,Series K,Walmart,2007,30000,Active
+Nykaa,Mumbai,E-commerce,100,IPO,TPG,2012,3500,Active
+Zomato,Delhi,Food Delivery,450,IPO,Ant Financial,2008,3800,Active
+Paytm,Delhi,Fintech,500,IPO,SoftBank,2010,9000,Active
+PolicyBazaar,Gurugram,Insurtech,150,IPO,SoftBank,2008,4500,Active
+Byju's,Bangalore,Edtech,600,Series F,UBS,2011,50000,Struggling
+Unacademy,Bangalore,Edtech,185,Series H,Tiger Global,2015,3000,Downsizing
+UpGrad,Mumbai,Edtech,120,Series E,Temasek,2015,4000,Active
+Lenskart,Delhi,D2C Retail,200,Series G,SoftBank,2010,10000,Active
+boAt,Delhi,D2C Electronics,60,Series C,Warburg Pincus,2016,1500,Active
+Mamaearth,Gurugram,D2C Beauty,95,IPO,Sequoia,2016,1200,Active
+CarDekho,Jaipur,Auto Tech,80,Series E,Hillhouse Capital,2008,2500,Active
+Delhivery,Gurugram,Logistics,250,IPO,SoftBank,2011,25000,Active
+Freshworks,Chennai,SaaS,150,IPO,Accel,2010,5000,Active
+Zoho,Chennai,SaaS,0,Bootstrapped,Self-funded,1996,12000,Active
+Chargebee,Chennai,SaaS,55,Series G,Sapphire Ventures,2011,1200,Active
+Postman,Bangalore,Developer Tools,225,Series D,Insight Partners,2014,800,Active
+Hasura,Bangalore,Developer Tools,40,Series C,Lightspeed,2018,200,Active
+Darwinbox,Hyderabad,HR Tech,72,Series D,Technology Crossover,2015,600,Active
+GreyOrange,Gurugram,Robotics,45,Series C,Mithril Capital,2011,800,Active
+Rivigo,Gurugram,Logistics,65,Series E,SAIF Partners,2014,1500,Inactive
+Dunzo,Bangalore,Delivery,56,Series E,Reliance Retail,2015,500,Struggling
+Cure.fit,Bangalore,Health Tech,110,Series E,Tata Digital,2016,2000,Active
+Practo,Bangalore,Health Tech,55,Series D,Tencent,2008,700,Active
+1mg,Gurugram,Health Tech,70,Series D,Tata Digital,2012,1500,Acquired
+PharmEasy,Mumbai,Health Tech,85,Series E,TPG,2015,2500,Struggling
+Groww,Bangalore,Fintech,120,Series E,Iconiq Capital,2016,900,Active
+Smallcase,Bangalore,Fintech,35,Series B,Amazon,2015,250,Active
+Coinswitch,Bangalore,Crypto,42,Series C,Andreessen Horowitz,2017,400,Active
+Jupiter,Bangalore,Fintech,28,Series C,Tiger Global,2019,300,Active
+Fi Money,Bangalore,Fintech,22,Series B,Sequoia,2019,250,Active
+Slice,Bangalore,Fintech,30,Series B,Tiger Global,2016,600,Active
+KreditBee,Bangalore,Fintech,55,Series D,Premji Invest,2018,1500,Active
+Rapido,Bangalore,Mobility,60,Series D,Swiggy,2015,500,Active
+Porter,Bangalore,Logistics,50,Series D,Tiger Global,2014,1200,Active
+BlackBuck,Bangalore,Logistics,70,Series E,Tribe Capital,2015,1000,Active
+Udaan,Bangalore,B2B Commerce,250,Series D,DST Global,2016,3000,Struggling
+OfBusiness,Gurugram,B2B Commerce,160,Series G,SoftBank,2015,2500,Active
+Moglix,Noida,B2B Commerce,45,Series E,Tiger Global,2015,1000,Active
+Urban Company,Gurugram,Services,60,Series F,Prosus,2014,3500,Active
+ShareChat,Bangalore,Social Media,75,Series G,Google,2015,1800,Active
+Koo,Bangalore,Social Media,30,Series B,Tiger Global,2020,300,Inactive
+Khatabook,Bangalore,Accounting,45,Series C,Tribe Capital,2019,500,Active
+OkCredit,Bangalore,Accounting,25,Series B,Tiger Global,2017,200,Active
+Apna,Bangalore,Jobs Platform,65,Series C,Tiger Global,2019,500,Active
+Instamojo,Bangalore,Payments,12,Series B,Gunosy Capital,2012,250,Active
+NoBroker,Bangalore,Proptech,80,Series E,General Atlantic,2013,3000,Active
+Housing.com,Mumbai,Proptech,40,Series D,SoftBank,2012,700,Acquired
+CommonFloor,Bangalore,Proptech,15,Series D,Tiger Global,2007,500,Acquired
+Simplilearn,Bangalore,Edtech,25,Series B,GSV Ventures,2010,2000,Acquired
+Eruditus,Mumbai,Edtech,150,Series E,SoftBank,2010,1800,Active
+Vedantu,Bangalore,Edtech,40,Series D,GGV Capital,2011,600,Downsizing
+Pine Labs,Noida,Fintech,100,Series E,Fidelity,1998,2000,Active
+BharatPe,Delhi,Fintech,85,Series E,Tiger Global,2018,700,Struggling
+MobiKwik,Gurugram,Fintech,40,IPO,Abu Dhabi Investment,2009,800,Active
+Digit Insurance,Bangalore,Insurtech,80,Series D,Faering Capital,2016,1500,Active
+Acko,Mumbai,Insurtech,45,Series D,General Atlantic,2016,600,Active
+Star Health,Chennai,Insurtech,55,IPO,Rakesh Jhunjhunwala,2006,15000,Active
+Rebel Foods,Mumbai,Food Tech,85,Series F,Qatar Investment,2011,3500,Active
+Zetwerk,Bangalore,Manufacturing,45,Series F,Greenoaks Capital,2018,1500,Active
+Infra.Market,Mumbai,Construction,35,Series D,Tiger Global,2016,2500,Active
+Spinny,Gurugram,Auto Tech,65,Series E,Tiger Global,2015,1200,Active
+Cars24,Gurugram,Auto Tech,90,Series F,DST Global,2015,3000,Active
+Drivezy,Bangalore,Mobility,15,Series C,Das Capital,2015,200,Inactive
+Vogo,Bangalore,Mobility,10,Series C,Matrix Partners,2016,150,Inactive
+Ather Energy,Bangalore,EV,85,Series E,Hero MotoCorp,2013,1500,Active
+Ola Electric,Bangalore,EV,200,Series E,SoftBank,2017,3000,Active
+Euler Motors,Delhi,EV,15,Series B,GIC,2018,300,Active
+Log9 Materials,Bangalore,EV Battery,8,Series B,Amara Raja,2015,150,Active
+Exponent Energy,Bangalore,EV Battery,12,Series A,Lightspeed,2020,80,Active
+Turtlemint,Mumbai,Insurtech,30,Series D,American Express,2015,700,Active
+Rupeek,Bangalore,Fintech,18,Series D,Bertelsmann,2015,500,Active
+Stashfin,Delhi,Fintech,20,Series C,Uncorrelated Ventures,2016,400,Active
+MoneyTap,Bangalore,Fintech,10,Series B,Sequoia,2015,200,Active
+ZestMoney,Bangalore,Fintech,15,Series C,Goldman Sachs,2015,400,Inactive
+Navi,Bangalore,Fintech,55,Series A,Catamaran Ventures,2018,500,Active
+Open,Bangalore,Fintech,25,Series D,Temasek,2017,400,Active
+Perfios,Bangalore,Fintech,10,Series B,Warburg Pincus,2008,800,Active
+Signzy,Bangalore,Fintech,8,Series B,Mastercard,2015,200,Active
+CleverTap,Mumbai,SaaS,35,Series D,CDPQ,2013,600,Active
+WebEngage,Mumbai,SaaS,12,Series B,India Quotient,2011,400,Active
+LeadSquared,Bangalore,SaaS,45,Series C,Gaja Capital,2012,1000,Active
+Whatfix,Bangalore,SaaS,25,Series D,SoftBank,2014,700,Active
+BrowserStack,Mumbai,SaaS,50,Series B,Bond Capital,2011,1000,Active
+MoEngage,Bangalore,SaaS,20,Series D,Goldman Sachs,2014,500,Active
+Mindtickle,Pune,SaaS,30,Series E,SoftBank,2011,500,Active
+Icertis,Pune,SaaS,40,Series F,B Capital,2009,1500,Active
+Druva,Pune,SaaS,60,Series H,Neuberger Berman,2008,900,Active
+Yellow.ai,Bangalore,AI,35,Series C,Sapphire Ventures,2016,600,Active
+Observe.AI,Bangalore,AI,25,Series B,Zoom Ventures,2017,300,Active
+Mad Street Den,Chennai,AI,15,Series B,Sequoia,2016,200,Active
+SigTuple,Bangalore,AI,8,Series B,Accel,2015,100,Active
+Haptik,Mumbai,AI,12,Series B,Reliance Jio,2013,300,Acquired
